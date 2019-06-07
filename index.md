@@ -18,6 +18,6 @@ Below, you can find a couple of my latest projects:
 
 1. Web Development on High Performance in Computing project at St. Olaf College
 2. Python package development and data generation while interning at Sygic
-3. Machine Learning final project for a class at St. Olaf College
+3. [Machine Learning: Student performance analysis (click)](mlearn.html) using a dataset from UCI and various algorithms (My sections are Linear Model, SVM, Hierarchical Cluster) final project for a class at St. Olaf College
 
 
