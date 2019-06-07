@@ -8,7 +8,8 @@ title: Welcome
 ![profile](/assets/img/profile.jpg){:height="50%" width="50%"}.
 
 I have two years of software development in Python and I am passionate about building and maintaining
-web applications that are capable of processing large amounts of data.
+web applications that are capable of processing large amounts of data. I graduated Cum Laude in May 2019
+from St. Olaf College (USA) in Computer Science with a concentration in Statistics.
 
 I am passionate about developing scalable and reliable software using modern tools like Docker containers.
 My experience includes developing software in C++, implementing and using machine learning algorithms in the R language,
