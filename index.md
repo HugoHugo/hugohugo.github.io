@@ -10,8 +10,9 @@ title: Welcome
 I have two years of software development in Python and I am passionate about building and maintaining
 web applications that are capable of processing large amounts of data.
 
-I am passionate about developing scalable and reliable software using modern tools like Docker containers,
-Kubernetes, and 
+I am passionate about developing scalable and reliable software using modern tools like Docker containers.
+My experience includes developing software in C++, implementing and using machine learning algorithms in the R language,
+and setting up web servers and reverse proxies using NGINX.
 
 Below, you can find a couple of my latest projects:
 
