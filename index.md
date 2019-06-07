@@ -3,7 +3,6 @@ layout: default
 title: Welcome
 ---
 
-# Welcome!
 #### I am Hugo, nice to meet you!
 
 ![profile](/assets/img/profile.jpg){:height="50%" width="50%"}.
