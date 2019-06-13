@@ -18,7 +18,7 @@ and setting up web servers and reverse proxies using NGINX.
 Below, you can find a couple of my latest projects:
 
 1. Web Development on High Performance in Computing project at St. Olaf College
-2. Python package development and data generation while interning at Sygic
+2. [Python package development (click)](https://github.com/Sygic/sygic-maps-services-python) and data generation while interning at Sygic
 3. [Machine Learning: Student performance analysis (click)](mlearn.html) using a dataset from UCI and various algorithms (My sections are Linear Model, SVM, Hierarchical Cluster) final project for a class at St. Olaf College
-
+4. [Airbnb Price Influencer Analysis with Xiaotian Fan (click)](airbnb-price-influencer-analysis.html) using a dataset from insideairbnb.com we analyzed which factors influence the price of an Airbnb listing for places in Amsterdam, the Netherderlands. This was also a final project for a class at St. Olaf College.
 
