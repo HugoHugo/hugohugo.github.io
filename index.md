@@ -3,24 +3,21 @@ layout: default
 title: Welcome
 ---
 
-#### I am Hugo, nice to meet you!
+I have two years of undergraduate research experience with software development in Python
+and I am passionate about building and maintaining software that is capable of
+processing large amounts of data. I graduated Cum Laude in May 2019
+from St. Olaf College (USA) in Computer Science with a minor in Statistics.
 
-![profile](/assets/img/profile.jpg){:height="50%" width="50%"}.
+I am passionate about developing scalable and reliable software running in modern environments like Docker containers.
+My experience includes developing software in C++ and Java, implementing and using machine learning algorithms in the R language,
+and setting up web servers and reverse proxies using NGINX and Gunicorn.
 
-I have two years of software development in Python and I am passionate about building and maintaining
-web applications that are capable of processing large amounts of data. I graduated Cum Laude in May 2019
-from St. Olaf College (USA) in Computer Science with a concentration in Statistics.
-
-I am passionate about developing scalable and reliable software using modern tools like Docker containers.
-My experience includes developing software in C++, implementing and using machine learning algorithms in the R language,
-and setting up web servers and reverse proxies using NGINX.
-
-Below, you can find a couple of my latest projects:
+Below, you can find a few of my latest projects:
 
 1. Web Development on High Performance Computing in Context (HiPerCiC) project at St. Olaf College led by a faculty member.
-This my undegraduate research position.
+This my undegraduate research position with software development.
 Since the code is closed source, here are some statistics describing my contributions:
-    - 376 commits across four Git repositories, mostly Python with some HTML, CSS, and JavaScript
+    - 376 commits across four Git repositories, mostly Python with some HTML, CSS, and JavaScript for front-end. Also wrote basic scripts in Bash.
     - Set up 3 virtual machines, two running production code
     - Automated continuous integration and deployment to staging and production
     - Designed reverse proxying to 6 VMs and set up SSL termination at each VM
