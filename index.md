@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 ---
 
-I have two years of undergraduate research experience with software development in Python
+I have two years of undergraduate research experience in software development in Python
 and I am passionate about building and maintaining software that is capable of
 processing large amounts of data. I graduated Cum Laude in May 2019
 from St. Olaf College (USA) in Computer Science with a minor in Statistics.
@@ -12,12 +12,20 @@ I am passionate about developing scalable and reliable software running in moder
 My experience includes developing software in C++ and Java, implementing and using machine learning algorithms in the R language,
 and setting up web servers and reverse proxies using NGINX and Gunicorn.
 
-Below, you can find a few of my latest projects:
+Below, you can find a few of my latest projects by language:
+
+- [Python](#python)
+- [Java](#java)
+- [R](#r)
+
+
+### Python
 
 1. Web Development on High Performance Computing in Context (HiPerCiC) project at St. Olaf College led by a faculty member.
-This my undegraduate research position with software development.
+This my undegraduate research position in software development.
 Since the code is closed source, here are some statistics describing my contributions:
     - 376 commits across four Git repositories, mostly Python with some HTML, CSS, and JavaScript for front-end. Also wrote basic scripts in Bash.
+    - Object-Oriented programming
     - Set up 3 virtual machines, two running production code
     - Automated continuous integration and deployment to staging and production
     - Designed reverse proxying to 6 VMs and set up SSL termination at each VM
@@ -25,6 +33,13 @@ Since the code is closed source, here are some statistics describing my contribu
     - Pioneered deployment to clusters (Kubernetes on premise and in Google Cloud)
     - Leader of a team with four other students, reported to faculty member who founded and directed the project
 2. [Python package development (click)](https://github.com/Sygic/sygic-maps-services-python) and data generation using Python's Pandas and geospatial data while interning at Sygic
-3. [Machine Learning: Student performance analysis (click)](mlearn.html) in collaboration with Bridget Koehler and Evan Holmes, used a dataset from UCI and various algorithms (My sections are Linear Model, SVM, Hierarchical Cluster) to analyze student performance in two schools in Portugal. This was a final project for a class at St. Olaf College
-4. [Airbnb Price Influencer Analysis (click)](airbnb-price-influencer-analysis.html) in collaboration with Xiaotian Fan, used a dataset from insideairbnb.com to analyze which factors influence the price of an Airbnb listing for places in Amsterdam, the Netherderlands. This was also a final project for a class at St. Olaf College.
+
+### Java
+
+1. Wrote a [RESTful multi threaded Java web-server](https://github.com/HugoHugo/peckish-javaBackend) that served a phone application we developed called [Peckish](https://github.com/Eldjotnar/peckish#peckish)
+
+### R
+
+1. [Machine Learning: Student performance analysis (click)](mlearn.html) in collaboration with Bridget Koehler and Evan Holmes, used a dataset from UCI and various algorithms (My sections are Linear Model, SVM, Hierarchical Cluster) to analyze student performance in two schools in Portugal. This was a final project for a class at St. Olaf College
+2. [Airbnb Price Influencer Analysis (click)](airbnb-price-influencer-analysis.html) in collaboration with Xiaotian Fan, used a dataset from insideairbnb.com to analyze which factors influence the price of an Airbnb listing for places in Amsterdam, the Netherderlands. This was also a final project for a class at St. Olaf College.
 
