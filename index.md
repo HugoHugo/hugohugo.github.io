@@ -3,6 +3,8 @@ layout: default
 title: Welcome
 ---
 
+## About Me
+
 I have two years of undergraduate research experience in software development in Python
 and I am passionate about building and maintaining software that is capable of
 processing large amounts of data. I graduated Cum Laude in May 2019
@@ -11,6 +13,8 @@ from St. Olaf College (USA) in Computer Science with a minor in Statistics.
 I am passionate about developing scalable and reliable software running in modern environments like Docker containers.
 My experience includes developing software in C++ and Java, implementing and using machine learning algorithms in the R language,
 and setting up web servers and reverse proxies using NGINX and Gunicorn.
+
+## Past Projects
 
 Below, you can find a few of my latest projects by language:
 
