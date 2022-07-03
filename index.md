@@ -16,7 +16,7 @@ My experience also includes architecting medium to large scale software projects
     - 3+ years of professional experience, with 3 extra years of personal experience
     - developing projects from greenfield ideas to MVPs
     - taking over major multi-language projects and optimising for performance, often decreasing overall cost
-    - REST APIs in Flask and Django
+    - REST APIs in Flask, experience with Django
     - TDD, BDD
  - SQL (PostgreSQL and Google BigQuery)
     - complex queries handling terabytes of data
