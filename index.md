@@ -13,7 +13,7 @@ My experience also includes architecting medium to large scale software projects
 
 ## My Tech Experience
  - Python
-    - 3+ years of professional experience, with 3 extra years of personal experience
+    - 6+ years of experience (3+ years professional experience, 3+ extra years of academic/personal experience)
     - developing projects from greenfield ideas to MVPs
     - taking over major multi-language projects and optimising for performance, often decreasing overall cost
     - REST APIs in Flask, experience with Django
